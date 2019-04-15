@@ -1,0 +1,6 @@
+framework module Pods_MultiSliderIssue {
+  umbrella header "Pods-MultiSliderIssue-umbrella.h"
+
+  export *
+  module * { export * }
+}
